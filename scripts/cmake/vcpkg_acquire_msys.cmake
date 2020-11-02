@@ -265,8 +265,8 @@ function(vcpkg_acquire_msys PATH_TO_ROOT_OUT)
     DEPS perl
   )
   msys_package(
-    URL "repo.msys2.org/msys/x86_64/automake1.15-1.15.1-1-any.pkg.tar.xz"
-    SHA512 d5bb245ab1bb6b57c40ef97755bfb0919dcceb0eccc33e848809922bf6b032f9e4eb36d89aedf41542051277d92238bd48a74115867db0bbc1e1db1c975cc72c
+    URL "repo.msys2.org/msys/x86_64/automake1.15-1.15.1-2-any.pkg.tar.zst"
+    SHA512 aed269720344948d50965354e35d640a8db1589bb9e98d21427a3cc47a8e8dfd2a6e4828b1ca109a4010eb808bdf9a627383c302a0713efcb6ab3be1f887d930
     DEPS perl
   )
   msys_package(
